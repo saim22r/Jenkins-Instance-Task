@@ -16,7 +16,7 @@ Vagrant.configure("2") do |config|
 end
 ```
 
-### Provision file set-up
+## Provision file set-up
 - The following code will update packages, install the latest version of java and jenkins
 - `vagrant up` in the correct directory
 - Let the files install for 5-10 minutes
